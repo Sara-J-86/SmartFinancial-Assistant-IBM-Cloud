@@ -114,6 +114,7 @@ You can use **IBM Cloud CLI** or manual methods:
 ## &#x20;Contact
 
 > **Created by**: Sara Joshi\
-> &#x20;**GitHub**: https://github.com/Sara-J-86\
+> &#x20;**GitHub**: https://github.com/Sara-J-86
+> 
 > &#x20;**Email**: sara.j.08604@gmail.com
 > &#x20;**IBM Cloud Region**: Dallas (us-south)
