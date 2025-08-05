@@ -8,6 +8,7 @@
 > **Platform**: IBM watsonx.ai\
 > **Deployment Type**: AI Agent (Web-based Assistant)\
 > **Owner**: Sara Joshi
+> 
 > **Public endpoints**
 https://us-south.ml.cloud.ibm.com/ml/v4/deployments/56b2edf9-eeb6-4afe-a266-41051b6f63d5/ai_service?version=2021-05-01
 https://us-south.ml.cloud.ibm.com/ml/v4/deployments/56b2edf9-eeb6-4afe-a266-41051b6f63d5/ai_service_stream?version=2021-05-01
