@@ -1,4 +1,4 @@
-This 4-week program focused on providing practical skills in AI and Cloud Computing. The internship was structured with weekly virtual sessions, mentor guidance, and hands-on labs. The curriculum included:
+This 4-week program focused on providing practical skills in AI and Cloud Computing. It was structured with weekly virtual sessions, mentor guidance, and hands-on labs. The curriculum included:
 
 Week 1: Internship Orientation, IBM Cloud Registration, Artificial Intelligence.
 Week 2: Data Analytics concepts, Hands-On Labs, and Cloud EDA.
