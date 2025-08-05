@@ -84,9 +84,6 @@ If deployed using IBM watsonx.ai:
   ```
   bash
   ```
-
-  CopyEdit
-
   `https://us-south.ml.cloud.ibm.com/ml/v4/deployments/<deployment-id>/ai_service?version=2021-05-01 `&#x20;
 
 > 🔗 This is **not** a direct public-facing link. To make the agent usable as a public-facing assistant, embed it in a web app or create an API wrapper around it.
@@ -103,6 +100,7 @@ You can use **IBM Cloud CLI** or manual methods:
    bash
    ```
  `ibmcloud login ibmcloud ml deployment-download --deployment-id <your-id> git init git remote add origin https://github.com/yourusername/SmartFinance-Assistant.git git add . git commit -m "Initial commit" git push -u origin main `&#x20;
+ 
 2. **Manual**:
 
    * Download assets and model files from `Assets` in IBM watsonx
