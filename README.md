@@ -75,6 +75,8 @@ Successful completion required active participation, completion of at least two 
 
 ## &#x20;Deployment
 
+I have deployed the agent on IBM Cloud and got the public and private end points for it, but the agent can not be accessed merely through the end points.
+
 ### Accessing the Deployed Assistant:
 
 If deployed using IBM watsonx.ai:
@@ -84,7 +86,7 @@ If deployed using IBM watsonx.ai:
   ```
   bash
   ```
-  `https://us-south.ml.cloud.ibm.com/ml/v4/deployments/<deployment-id>/ai_service?version=2021-05-01 `&#x20;
+  `https://us-south.ml.cloud.ibm.com/ml/v4/deployments/56b2edf9-eeb6-4afe-a266-41051b6f63d5/ai_service?version=2021-05-01`&#x20;
 
 > 🔗 This is **not** a direct public-facing link. To make the agent usable as a public-facing assistant, embed it in a web app or create an API wrapper around it.
 
@@ -92,14 +94,15 @@ If deployed using IBM watsonx.ai:
 
 ## Exporting the Project to GitHub
 
-You can use **IBM Cloud CLI** or manual methods:
+
+I used the **IBM Cloud CLI** to export and download the zip file for my project:
 
 1. **CLI (IBM Cloud Shell)**:
 
    ```
    bash
    ```
- `ibmcloud login ibmcloud ml deployment-download --deployment-id <your-id> git init git remote add origin https://github.com/yourusername/SmartFinance-Assistant.git git add . git commit -m "Initial commit" git push -u origin main `&#x20;
+ `ibmcloud login ibmcloud ml deployment-download --deployment-id <my-id> git init git remote add origin https://github.com/yourusername/SmartFinance-Assistant.git git add . git commit -m "Initial commit" git push -u origin main `&#x20;
  
 2. **Manual**:
 
