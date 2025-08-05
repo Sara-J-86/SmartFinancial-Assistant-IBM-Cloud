@@ -91,10 +91,7 @@ You can use **IBM Cloud CLI** or manual methods:
    ```
    bash
    ```
-
-   CopyEdit
-
-   `ibmcloud login ibmcloud ml deployment-download --deployment-id <your-id> git init git remote add origin https://github.com/yourusername/SmartFinance-Assistant.git git add . git commit -m "Initial commit" git push -u origin main `&#x20;
+ `ibmcloud login ibmcloud ml deployment-download --deployment-id <your-id> git init git remote add origin https://github.com/yourusername/SmartFinance-Assistant.git git add . git commit -m "Initial commit" git push -u origin main `&#x20;
 2. **Manual**:
 
    * Download assets and model files from `Assets` in IBM watsonx
