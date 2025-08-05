@@ -8,7 +8,7 @@ Successful completion required active participation, completion of at least two 
 
 ## Project Overview
 
-**SmartFinance Assistant** is a smart, polite, and informative AI agent designed to help users manage personal or small business finances. It can answer queries, analyze spending, help create budgets, summarize financial documents, and provide financial guidance—all in natural language. Please checkout the Setup and Images folders to get a look at how the setup for this was done and how the agent replies to user prompts!
+**SmartFinance Assistant** is a smart, polite, and informative AI agent designed to help users manage personal or small business finances. It can answer queries, analyze spending, help create budgets, summarize financial documents, and provide financial guidance, all in natural language. Please checkout the Setup and Images folders to get a look at how the setup for this was done and how the agent replies to user prompts!
 
 > **Model**: `mistral-large`\
 > **Platform**: IBM watsonx.ai\
