@@ -32,6 +32,21 @@ Successful completion required active participation, completion of at least two 
 * Searches the web for trusted financial knowledge (via integrated tools)
 
 ***
+# Run SmartFinance Assistant
+
+Use the `SmartFinance_Assistant.ipynb` file to run this AI assistant locally or in Google Colab.
+
+---
+
+## Requirements
+
+- IBM Cloud account + API Key ([Get it here](https://cloud.ibm.com/iam/apikeys))
+- Project ID + Deployment Space ID (from [Watsonx Project](https://cloud.ibm.com/))
+- Python 3.10+ (for local use)
+- Add your api key while running.
+<img width="2862" height="1110" alt="image" src="https://github.com/user-attachments/assets/3abf2611-6c9a-4071-b21d-46850bc57a38" />
+
+---
 
 ## Use Case Examples
 
