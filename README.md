@@ -67,7 +67,7 @@ Use the `SmartFinance_Assistant.ipynb` file to run this AI assistant locally or 
 * Does **not** process sensitive information like bank login details
 * Avoids hallucinations by relying only on:
 
-  * Uploaded user documents
+  * Uploaded user information
   * Integrated tools (web search, Wikipedia, etc.)
   * Verified built-in financial knowledge
 * Uses **plain English** and explains jargon when used
