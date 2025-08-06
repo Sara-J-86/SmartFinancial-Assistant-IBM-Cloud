@@ -12,7 +12,7 @@ Successful completion required active participation, completion of at least two 
 
 **Please checkout the Setup and Images folders to get a look at how the setup for this was done and how the agent replies to user prompts!**
 
-> **Model**: `mistral-large`\
+
 > **Platform**: IBM watsonx.ai\
 > **Deployment Type**: AI Agent (Web-based Assistant)\
 > **Owner**: Sara Joshi
