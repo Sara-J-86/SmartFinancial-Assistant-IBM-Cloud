@@ -12,6 +12,9 @@ Successful completion required active participation, completion of at least two 
 
 **Please checkout the Setup and Images folders to get a look at how the setup for this was done and how the agent replies to user prompts!**
 
+This agent has been deployed on IBM Cloud and I have mentioned the public endpoints below as well.
+<img width="1470" height="351" alt="image" src="https://github.com/user-attachments/assets/58806a8f-34e7-4286-a207-de9390aa8c40" />
+
 
 > **Platform**: IBM watsonx.ai\
 > **Deployment Type**: AI Agent (Web-based Assistant)\
@@ -36,7 +39,7 @@ Successful completion required active participation, completion of at least two 
 ***
 # Run SmartFinance Assistant
 
-Use the `SmartFinance_Assistant.ipynb` file to run this AI assistant locally or in Google Colab.
+Use the `SmartFinance_Assistant.ipynb` file to run this AI assistant locally or in Jupyter/Google Colab.
 
 ---
 
